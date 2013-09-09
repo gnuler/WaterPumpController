@@ -1,5 +1,10 @@
 *.py[cod]
 
+*.o
+*.lst
+*.map
+
+
 # C extensions
 *.so
 
