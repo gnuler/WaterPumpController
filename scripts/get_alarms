@@ -1,0 +1,2 @@
+mosquitto_pub -h 192.168.2.41 -m "" -t WaterTank/Sensors/AlarmHigh/Get
+mosquitto_pub -h 192.168.2.41 -m "" -t WaterTank/Sensors/AlarmLow/Get
